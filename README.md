@@ -1,4 +1,3 @@
-## Olá, Eu me chamo Danilo !
 <div> 
   <a href="https://github.com/DaniloAlvesantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloAlvesantos&show_icons=true&theme=dark&icon_color=FFFFFF&hide=contribs,prs"/>
