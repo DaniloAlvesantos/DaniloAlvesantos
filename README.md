@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently jobless<br>👴🏻 i'm 18 years old<br>🎷 i'm musician<br>📚 i study English since 2015<br>>💻 Full Stack dev<br>
+🔭 I'm currently jobless<br>👴🏻 i'm 18 years old<br>🎷 i'm musician<br>📚 i study English since 2015<br>💻 Full Stack dev<br>
 
 
 ## 🌐 Socials:
