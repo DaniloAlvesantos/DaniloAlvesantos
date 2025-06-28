@@ -11,9 +11,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=daniloAlvesantos&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=daniloAlvesantos&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=daniloAlvesantos&icon=0&color=12)](https://visitcount.itsvg.in)
 
